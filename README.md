@@ -66,9 +66,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[![Video Title](http://img.youtube.com/vi/hkuUcYo6L7o/0.jpg)](http://www.youtube.com/watch?v=hkuUcYo6L7o)
 
 ## Notes
 
